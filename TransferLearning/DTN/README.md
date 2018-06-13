@@ -1,6 +1,6 @@
 # CS420-MachineLearning
 Our DTN project is based on [Unsupervised Cross-Domain Image Generation.](https://arxiv.org/abs/1611.02200)
-Thanks for the help of [yunjey](https://github.com/yunjey/domain-transfer-network) and [SrCMpink](https://github.com/SrCMpink/domain-transfer-network-1)
+Because the update of certain libraries, some error happened during the re-implementation of paper code. Thanks for the reference of [yunjey](https://github.com/yunjey) and [SrCMpink](https://github.com/SrCMpink)
 
 #### First of all, you need to download SVNH
 ```bash
